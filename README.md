@@ -1,22 +1,6 @@
-![image](https://user-images.githubusercontent.com/53139020/64109318-27643300-cdba-11e9-8f00-c1a731575e47.png)
-## onamuBuma
- * 오픈나무 Buma를 최대한 기존 스킨처럼 변경한 스킨입니다.
-
-## 적용 방법
- * 다운 받고 폴더 이름을 "onamubuma"로 변경해서 "views"에 넣어주세요.
-
-## 라이선스
-Copyright (C) 2017 LiteHell
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+![onamu-Buma](https://user-images.githubusercontent.com/53139020/64109318-27643300-cdba-11e9-8f00-c1a731575e47.png)
+## onamu-Buma
+ * openNAMU의 Buma를 기존 the seed의 Buma와 유사하게 수정한 스킨입니다.
+ * 파일을 다운받고 압축을 해제한 후, 폴더 이름을 `onamubuma`로 변경하고 `views`에 넣으면 됩니다.
+ * 현재는 개발이 중단되었습니다. 해당 레포지토리를 포크한 한마음위키의 [Buma-skin](https://github.com/onemindwiki/Buma-skin)을 이용하세요.
+ * This skin is forked from the Buma skin, so it is distributed under GPL 3.0. See the [LICENSE](/LICENSE.md) file for more details.
